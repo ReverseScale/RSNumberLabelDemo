@@ -2,7 +2,7 @@
 Swift 实现金额类的动态“蹦字”效果
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) 
-![](https://img.shields.io/badge/language-swift-orange.svg) 
+![](https://img.shields.io/badge/language-Swift-orange.svg) 
 ![](https://img.shields.io/badge/download-2.0MB-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
