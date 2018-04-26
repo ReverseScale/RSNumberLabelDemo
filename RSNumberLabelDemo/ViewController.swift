@@ -15,10 +15,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         self.title = "动态数字跳动效果"
-        numberLabel.countFromCurrent(to: 111929, duration: 1)
-
     }
-
+    @IBAction func showAction(_ sender: Any) {
+        numberLabel.countFromCurrent(to: 111929, duration: 1)
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
