@@ -9,7 +9,8 @@ Swift 实现金额类的动态“蹦字”效果
 看到支付宝等金融类 App 都会搞一个一直“蹦字”的显示动画，就想着用 Swift 实现一下。
 
 GIF 效果：
-![](http://og1yl0w9z.bkt.clouddn.com/17-9-20/57923035.jpg)
+
+![](http://og1yl0w9z.bkt.clouddn.com/18-4-26/3710062.jpg)
 
 ## Advantage 框架的优势
 * 1.文件少，代码简洁
